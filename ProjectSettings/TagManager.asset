@@ -4,9 +4,6 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< Updated upstream
-  - Enemy
-=======
   - Action
   - AutoCrouch
   - Ragdoll
@@ -33,7 +30,6 @@ TagManager:
   - CoverPoint
   - Interactable
   - AIAction
->>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -41,7 +37,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Lightbars
+  - 
   - 
   - Player
   - Enemy
