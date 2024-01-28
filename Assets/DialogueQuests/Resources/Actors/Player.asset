@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61ea64a65dc7f514d84608bd9fa6b23b, type: 3}
-  m_Name: PlayerGirl
+  m_Name: Player
   m_EditorClassIdentifier: 
   actor_id: player
   is_player: 1

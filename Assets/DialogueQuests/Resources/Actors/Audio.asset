@@ -10,13 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61ea64a65dc7f514d84608bd9fa6b23b, type: 3}
-  m_Name: GhostB
+  m_Name: Audio
   m_EditorClassIdentifier: 
-  actor_id: ghostB
+  actor_id: ghostA
   is_player: 0
-  title: Ghost
+  title: Justin
   portrait: {fileID: 21300000, guid: a66ef7f3dec30174684aeeb67498f124, type: 3}
-  portrait_mini: {fileID: 21300000, guid: a66ef7f3dec30174684aeeb67498f124, type: 3}
   animation: {fileID: 9100000, guid: 23c8e72fd065f184fa7efd40ef677555, type: 2}
   show_bubble: 1
   bubble_offset: {x: 0, y: 2, z: 0}
