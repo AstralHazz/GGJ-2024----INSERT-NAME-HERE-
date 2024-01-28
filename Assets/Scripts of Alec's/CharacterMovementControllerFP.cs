@@ -100,9 +100,8 @@ public class CharacterMovementControllerFP : MonoBehaviour
     {
         jumpReady = true;
     }
-
-// updates
-private void Update()
+    // updates
+    private void Update()
     {
         playerInput();
         speedControl();
