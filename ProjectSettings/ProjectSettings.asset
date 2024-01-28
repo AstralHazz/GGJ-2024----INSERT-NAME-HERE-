@@ -865,6 +865,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
+    Android: INVECTOR_AI_TEMPLATE
     Standalone: INVECTOR_AI_TEMPLATE;DIALOGUE_QUESTS
   additionalCompilerArguments: {}
   platformArchitecture: {}
