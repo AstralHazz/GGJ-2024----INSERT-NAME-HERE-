@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2e207a509725314f8a9d840dbfc8b08, type: 3}
   m_Name: No Witnesses
   m_EditorClassIdentifier: 
-  quest_id: Kill_Rats
+  quest_id: Retrieve_ID
   title: Clear the server room.
   icon: {fileID: 0}
-  desc: Kill those robotic rats, they cannot steal our company secrets! Even if they
-    aren't very juicy...
+  desc: 'Get the ID from those nerds.
+
+'
   sort_order: 0
