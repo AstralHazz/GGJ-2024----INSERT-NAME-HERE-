@@ -1475,7 +1475,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1087043473462172}
-  m_LocalRotation: {x: 0.8510554, y: 0.4392712, z: -0.13079993, w: 0.25619715}
+  m_LocalRotation: {x: 0.8510554, y: 0.4392712, z: -0.1307999, w: 0.2561971}
   m_LocalPosition: {x: 0.002950098, y: -0.00006529993, z: -0.0000013525411}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -17132,7 +17132,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   openCloseEvents: 0
   openCloseWindow: 0
-  selectedToolbar: 0
+  selectedToolbar: 4
   weaponCategory: MyCategory
   _shootFrequency: 0.25
   isInfinityAmmo: 1
@@ -17153,7 +17153,7 @@ MonoBehaviour:
   _minDamage: 5
   _maxDamage: 15
   source: {fileID: 82649645600956558}
-  fireClip: {fileID: 8300000, guid: 4912d5c56ce571e4fbad7af6de655772, type: 3}
+  fireClip: {fileID: 8300000, guid: f41cb101cd90dec45ba6881c8d7f6ba8, type: 3}
   emptyClip: {fileID: 0}
   testShootEffect: 0
   lightOnShot: {fileID: 108934426548769818}
