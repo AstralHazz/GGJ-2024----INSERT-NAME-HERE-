@@ -513,11 +513,7 @@ Transform:
   m_GameObject: {fileID: 7433109616534697541}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 12.5, y: 9.0503, z: 11.221}
-<<<<<<< Updated upstream
   m_LocalScale: {x: 0.19064, y: 0.5304721, z: 2.4783201}
-=======
-  m_LocalScale: {x: 0.19064, y: 0.34245685, z: 2.4783201}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 271305092410439146}
@@ -526,11 +522,7 @@ Transform:
   - {fileID: 5599722367538392583}
   - {fileID: 8396814829526452147}
   m_Father: {fileID: 0}
-<<<<<<< Updated upstream
   m_RootOrder: -1
-=======
-  m_RootOrder: 6
->>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6393238738407663362
 MeshFilter:
