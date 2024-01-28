@@ -8,22 +8,26 @@ public class AudioOnCollision : MonoBehaviour
     [SerializeField] private AudioSource myAudioSource;
     [SerializeField] private AudioClip myAudioClip1;
     [SerializeField] private AudioClip myAudioClip2;
-    [SerializeField] private float volume = 1.0f;
+    [SerializeField] private float volume = 0.5f;
     bool objHasRun = false;
 
     private void OnTriggerEnter(Collider other)
     {
         if (objHasRun != true)
         {
-            if (!myAudioSource.isPlaying)
-            {
-                myAudioSource.PlayOneShot(myAudioClip1, volume);
-                objHasRun = true;
-                //PLAYS ONCE
-            }
-            else
-            {
-                myAudioSource.Stop();
+
+            if(other.gameObject.CompareTag("Player"))
+                {
+                if (!myAudioSource.isPlaying)
+                {
+                    myAudioSource.PlayOneShot(myAudioClip1, volume);
+                    objHasRun = true;
+                    //PLAYS ONCE
+                }
+                else
+                {
+                    myAudioSource.Stop();
+                }
             }
         }
     }
