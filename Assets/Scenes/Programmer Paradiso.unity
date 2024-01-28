@@ -17862,19 +17862,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4433742635868874, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.25619715
+      value: 0.2561971
       objectReference: {fileID: 0}
     - target: {fileID: 4433742635868874, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.8510553
+      value: 0.8510554
       objectReference: {fileID: 0}
     - target: {fileID: 4433742635868874, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.43927127
+      value: 0.4392712
       objectReference: {fileID: 0}
     - target: {fileID: 4433742635868874, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.13079983
+      value: -0.1307999
       objectReference: {fileID: 0}
     - target: {fileID: 4672355781766694, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
       propertyPath: m_LocalRotation.y
@@ -17924,6 +17924,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114751714402246758, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
+      propertyPath: fireClip
+      value: 
+      objectReference: {fileID: 8300000, guid: f41cb101cd90dec45ba6881c8d7f6ba8, type: 3}
     - target: {fileID: 114751714402246758, guid: 3d89635eb59c28644b1def5d3cbc2eee, type: 3}
       propertyPath: selectedToolbar
       value: 4
