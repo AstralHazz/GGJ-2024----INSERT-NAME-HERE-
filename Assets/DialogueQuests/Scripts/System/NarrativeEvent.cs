@@ -181,6 +181,8 @@ namespace DialogueQuests
             if (NarrativeManager.IsReady())
             {
                 TriggerIfConditionsMet(player);
+                //Cursor.visible = true;
+                //Cursor.lockState = CursorLockMode.None;
             }
         }
 
