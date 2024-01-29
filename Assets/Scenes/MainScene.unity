@@ -5249,6 +5249,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1245087914864990653, guid: cfe499bb5caab3b489f054c2e0b5000f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 247
+      objectReference: {fileID: 0}
     - target: {fileID: 1250627161093957886, guid: cfe499bb5caab3b489f054c2e0b5000f, type: 3}
       propertyPath: m_SizeDelta.x
       value: 409.1693
@@ -5327,7 +5331,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5908695165963599754, guid: cfe499bb5caab3b489f054c2e0b5000f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.0002810406
+      value: -0.00016095724
       objectReference: {fileID: 0}
     - target: {fileID: 5911955553034928347, guid: cfe499bb5caab3b489f054c2e0b5000f, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -8680,6 +8684,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
+      propertyPath: m_TagString
+      value: CompanionAI
+      objectReference: {fileID: 0}
     - target: {fileID: 4666207078515208, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10547,7 +10555,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   actor: {fileID: 11400000, guid: 5e4f6bbf226f55948b6e9ce12afd55bc, type: 2}
   text: Yeah, I do. I mean, the new office could be worse but I literally cannot
-    do my job withoutsome good headphones. Can you ask HR for some new ones? I have
+    do my job without some good headphones. Can you ask HR for some new ones? I have
     the specifics right here.
   audio_clip: {fileID: 0}
   anim: 
@@ -19848,6 +19856,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114903814912910464, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114934182601669282, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
       propertyPath: weaponObject
       value: 
@@ -23716,6 +23728,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114903814912910464, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114934182601669282, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
       propertyPath: weaponObject
       value: 
@@ -25192,6 +25208,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114903814912910464, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114934182601669282, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
       propertyPath: weaponObject
       value: 
@@ -25377,6 +25397,10 @@ PrefabInstance:
     - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_Name
       value: AI - CivilianPassive (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
+      propertyPath: m_TagString
+      value: CompanionAI
       objectReference: {fileID: 0}
     - target: {fileID: 4666207078515208, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_RootOrder
@@ -26650,6 +26674,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4524852781102242, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114903814912910464, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114934182601669282, guid: e15e8df86e8fb974cb9abbffa32c8a29, type: 3}
@@ -31276,7 +31304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actor: {fileID: 11400000, guid: a2b4456b27d757b479d280a666127989, type: 2}
-  text: HELLO, welcome to AAA... erm,  game corp entertainment llc incoprporated.
+  text: HELLO, welcome to AAA... erm,  Game Corp Entertainment llc Incorporated.
     We need you to boost morale because our pizza parties have not been working.
     When you're done, walk out the exit.
   audio_clip: {fileID: 0}
@@ -32037,7 +32065,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   actor: {fileID: 11400000, guid: 1037792111251f442853e5d45ad40b10, type: 2}
   text: Okay... let me be blunt then. We're still using the Source Engine. Please,
-    PLEASE update our systems before I thundercunt my CPU through the window
+    PLEASE update our systems before I send my CPU through the window-
   audio_clip: {fileID: 0}
   anim: 
   duration: 4
@@ -33247,6 +33275,10 @@ PrefabInstance:
     - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
+      propertyPath: m_TagString
+      value: CompanionAI
       objectReference: {fileID: 0}
     - target: {fileID: 4666207078515208, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_RootOrder
@@ -34580,6 +34612,10 @@ PrefabInstance:
     - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_Name
       value: AI - CivilianPassive (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
+      propertyPath: m_TagString
+      value: CompanionAI
       objectReference: {fileID: 0}
     - target: {fileID: 4666207078515208, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_RootOrder
@@ -39855,6 +39891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AI - CivilianPassive (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
+      propertyPath: m_TagString
+      value: CompanionAI
+      objectReference: {fileID: 0}
     - target: {fileID: 4666207078515208, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_RootOrder
       value: 43
@@ -40316,6 +40356,10 @@ PrefabInstance:
     - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535287099985346, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
+      propertyPath: m_TagString
+      value: CompanionAI
       objectReference: {fileID: 0}
     - target: {fileID: 4666207078515208, guid: 7e5f04cdafd00a343b4f28d352383062, type: 3}
       propertyPath: m_RootOrder
